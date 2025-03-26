@@ -58,7 +58,8 @@ If you're interested in contributing or getting early access to the codebase, pl
 
 Questions, feedback, or collab requests?  
 📧 Email: support@fragella.com 
-🌐 Website: fragella.com
+
+🌐 Website: [fragella.com](fragella.com)
 
 ---
 
