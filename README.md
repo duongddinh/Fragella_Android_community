@@ -30,7 +30,7 @@ This APK is provided for **demonstration and testing purposes only**.
 
 - 🚫 **Do not** redistribute, reverse engineer, or use this app for commercial purposes without explicit permission.
 - 📁 The **source code is currently private**.
-- 🤝 If you're interested in contributing or reviewing the code, please reach out via [email/contact method].
+- 🤝 If you're interested in contributing or reviewing the code, please reach out via email.
 
 ---
 
