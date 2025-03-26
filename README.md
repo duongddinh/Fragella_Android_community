@@ -1,6 +1,6 @@
 # 📱 Fragella Android Client
 
-Welcome to the official Android client for **Fragella** – a modern, elegant fragrance collection and discovery app.
+Welcome to the official-unofficial Android client for **Fragella** – a modern, elegant fragrance collection and discovery app.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to the official Android client for **Fragella** – a modern, elegant fr
 
 You can download the latest signed APK here:
 
-**[👉 Download APK]((https://github.com/duongddinh/Fragella_Android_community/raw/refs/heads/main/app-release.apk))**  
+**[👉 Download APK](https://github.com/duongddinh/Fragella_Android_community/raw/refs/heads/main/app-release.apk)**  
 SHA-256 Checksum:  
 `82e9e8dbdba2711d2dff22bcc79dd30ba28e41b5912778e227a42cdc92240811`
 
