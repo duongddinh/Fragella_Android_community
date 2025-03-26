@@ -4,6 +4,16 @@ Welcome to the official-unofficial Android client for **Fragella** – a modern,
 
 ---
 
+## 📦 Play Store Availability
+
+Fragella is **not yet available on the Google Play Store**, and we currently **have no immediate plans** to release it there.  
+If you'd like to see it on the Play Store in the future, or need help installing the APK, feel free to email us at:
+
+📧 **support@fragella.com** – just mention **"Android"** in the subject line.
+
+---
+
+
 ## 🔗 Download
 
 You can download the latest signed APK here:
